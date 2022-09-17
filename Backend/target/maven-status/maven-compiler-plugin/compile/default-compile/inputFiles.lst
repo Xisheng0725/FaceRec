@@ -1,2 +1,4 @@
-/Users/zhangxisheng/Desktop/FaceRec/Backend/src/main/java/com/example/demo/controller/GreetingController.java
+/Users/zhangxisheng/Desktop/FaceRec/Backend/src/main/java/com/example/demo/controller/ImageController.java
 /Users/zhangxisheng/Desktop/FaceRec/Backend/src/main/java/com/example/demo/DemoApplication.java
+/Users/zhangxisheng/Desktop/FaceRec/Backend/src/main/java/com/example/demo/azure/BlobStorageHelper.java
+/Users/zhangxisheng/Desktop/FaceRec/Backend/src/main/java/com/example/demo/azure/CustomVisionHelper.java

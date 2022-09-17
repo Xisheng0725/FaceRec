@@ -1,2 +1,4 @@
 com/example/demo/DemoApplication.class
-com/example/demo/controller/GreetingController.class
+com/example/demo/controller/ImageController.class
+com/example/demo/azure/CustomVisionHelper.class
+com/example/demo/azure/BlobStorageHelper.class
