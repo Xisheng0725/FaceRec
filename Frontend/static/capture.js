@@ -18,7 +18,8 @@ var video = null;
 var canvas = null;
 var photo = null;
 var startbutton = null;
-var backend_host = "https://appxisheng.azurewebsites.net";
+//var backend_host = "https://appxisheng.azurewebsites.net";
+var backend_host = ""
 
 function startup() {
   video = document.getElementById('video');

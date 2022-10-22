@@ -5,7 +5,7 @@ import os
 import requests
 
 BACKEND_HOST = os.getenv('BACKEND_HOST')
-SERVER_PORT = os.getenv('SERVER_PORT')
+SERVER_PORT = os.getenv('SERVER_PORT', 80)
 
 '''
 BACKEND_HOST = "https://facebackend.azurewebsites.net"
